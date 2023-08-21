@@ -1,4 +1,4 @@
-Able Player
+MED Able Player
 ==========
 
 *Able Player* is a fully accessible cross-browser HTML5 media player. 
