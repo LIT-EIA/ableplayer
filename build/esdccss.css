@@ -1,0 +1,41 @@
+/*! ableplayer V4.5.0 */
+
+#videotitle {
+    color: white;
+    font-size: 2.0em;
+    font-weight: bold;
+    background-color: #26374A;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+
+#videoholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+.able-big-play-button svg {
+    background-color: #051c37;
+    border: 2px solid #051c37;
+}
+
+.able-controller {
+    background-color: #1f7c9b;
+}
+
+.able-status-bar {
+    background-color: #051c37
+}
+
+.able-seekbar-played {
+    background-color: #cd1c69
+}
