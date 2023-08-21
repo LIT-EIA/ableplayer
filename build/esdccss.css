@@ -29,7 +29,7 @@ body {
 }
 
 .able-controller {
-    background-color: #1f7c9b;
+    background-color: #051c37;
 }
 
 .able-status-bar {
@@ -38,4 +38,8 @@ body {
 
 .able-seekbar-played {
     background-color: #cd1c69
+}
+
+.medhideobject {
+    display: none !important;
 }
